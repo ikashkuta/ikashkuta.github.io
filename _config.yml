@@ -3,7 +3,7 @@ title:       Kashkuta News
 email:       ikashkuta@gmail.com
 author:      Igor Kashkuta
 description: "Kashkuta News"
-baseurl:     ""
+baseurl:     "http://kashkuta.ru"
 url:         "http://kashkuta.ru"
 date_format: "%b %-d, %Y"
 
@@ -15,6 +15,9 @@ google_verification:
 
 # Yandex services
 yandex_analytics: 34247000
+
+# Feedburner
+rss_url: "http://feeds.feedburner.com/kashkuta-ru"
 
 # Optional features
 animated:             false
