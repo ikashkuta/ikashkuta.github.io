@@ -19,6 +19,9 @@ yandex_analytics: 34247000
 # Feedburner
 rss_url: "http://feeds.feedburner.com/kashkuta-ru"
 
+# Github Pages
+github_source_url: "https://github.com/ikashkuta/ikashkuta.github.io"
+
 # Optional features
 animated:             false
 show_related_posts:   false
