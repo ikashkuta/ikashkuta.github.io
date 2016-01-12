@@ -3,7 +3,7 @@ title:       Kashkuta News
 email:       ikashkuta@gmail.com
 author:      Igor Kashkuta
 description: "Kashkuta News"
-baseurl:     "http://kashkuta.ru"
+baseurl:     ""
 url:         "http://kashkuta.ru"
 date_format: "%b %-d, %Y"
 
