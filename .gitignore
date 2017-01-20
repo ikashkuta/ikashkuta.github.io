@@ -1,6 +1,2 @@
 # OS X
 .DS_Store
-
-# Jekyll
-_site/
-.sass-cache/
